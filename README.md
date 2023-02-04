@@ -1,7 +1,7 @@
 # Foundry Archive Binaries
 Sourced from https://github.com/foundry-rs/foundry/pkgs/container/foundry/versions?filters%5Bversion_type%5D=tagged
 
-This repo contains a list of build amd64 binaries that we can use to lock to a specific nightly buld without needing to recompile.
+This repo contains a list of built amd64 binaries that we can use to lock to a specific nightly build without needing to recompile.
 
 ## How to generate a set of binaries
 You must have Docker installed
